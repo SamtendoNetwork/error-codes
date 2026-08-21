@@ -1,7 +1,7 @@
 {
 	"002": {
 		"0151": {
-			"name": "Custom Pretendo Error",
+			"name": "Custom Samtendo Error",
 			"message": "The online service is unavailable.\nPlease try again later.\n\nFor help, visit support.nintendo.com.",
 			"short_description": "Error when registering new account.",
 			"long_description": "Error when registering new account.",

@@ -1,7 +1,7 @@
 {
 	"002": {
 		"0152": {
-			"name": "Custom Pretendo Error",
+			"name": "Custom Samtendo Error",
 			"message": "The online service is unavailable.\nPlease try again later.\n\nFor help, visit support.nintendo.com.",
 			"short_description": "Game server requires custom patches.",
 			"long_description": "The game server you are trying to connect to requires custom patches to protect its users against security vulnerabilities.",

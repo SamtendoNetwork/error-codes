@@ -1,7 +1,7 @@
 {
 	"002": {
 		"0150": {
-			"name": "Custom Pretendo Error",
+			"name": "Custom Samtendo Error",
 			"message": "The online service is unavailable.\nPlease try again later.\n\nFor help, visit support.nintendo.com.",
 			"short_description": "Serial number mismatch.",
 			"long_description": "Serial number mismatch: your console files used for online play have been tampered.",

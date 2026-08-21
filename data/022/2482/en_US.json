@@ -5,8 +5,8 @@
 			"message": "",
 			"short_description": "The game server requested could not be found. Either the game is not supported or is tester-only.",
 			"long_description": "The game server requested could not be found. Either the game is not supported or is tester-only.",
-			"short_solution": "Check to see if your game is supported at https://pretendo.network/progress. If you're a tester, check your account is set to Beta at https://pretendo.network/account.",
-			"long_solution": "Check to see if your game is supported at https://pretendo.network/progress. If you're a tester, check your account is set to Beta at https://pretendo.network/account.",
+			"short_solution": "Check to see if your game is supported at https://games.samtendo.net. If you're a tester, open a ticket in the Discord server.",
+			"long_solution": "Check to see if your game is supported at https://games.samtendo.net. If you're a tester, open a ticket in the Discord server.",
 			"support_link": "https://preten.do/022-2482"
 		}
 	}

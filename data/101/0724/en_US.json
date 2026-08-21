@@ -3,10 +3,10 @@
 		"0724": {
 			"name": "FPD_RESERVED_24",
 			"message": "",
-			"short_description": "User lacks NNID/PNID",
+			"short_description": "User lacks NNID/SNID",
 			"long_description": "Your console is attempting to go online without a network account.",
-			"short_solution": "Link a PNID to your console",
-			"long_solution": "Verify you have a PNID linked to your profile. You may also refer to Nintendo's official support page https://www.nintendo.com/en-gb/Support/Wii-U/Troubleshooting/Error-codes/Error-code-101-0744/Error-code-101-0744-1133482.html\n\nIf the error persists, report it to a developer.",
+			"short_solution": "Link an SNID to your console",
+			"long_solution": "Verify you have an SNID linked to your profile. You may also refer to Nintendo's official support page https://www.nintendo.com/en-gb/Support/Wii-U/Troubleshooting/Error-codes/Error-code-101-0744/Error-code-101-0744-1133482.html\n\nIf the error persists, report it to a developer.",
 			"support_link": "https://preten.do/101-0724"
 		}
 	}

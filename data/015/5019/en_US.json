@@ -1,7 +1,7 @@
 {
 	"015": {
 		"5019": {
-			"name": "Custom Pretendo Error",
+			"name": "Custom Samtendo Error",
 			"message": "Unable to connect to the server. Please try again later. If the problem persists, please make a note of the error code and visit support.nintendo.com.",
 			"short_description": "No Discovery Server.",
 			"long_description": "No Discovery Server.",

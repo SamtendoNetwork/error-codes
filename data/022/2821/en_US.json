@@ -3,8 +3,8 @@
 		"2821": {
 			"name": "BANNED_ACCOUNT_TEMPORARILY",
 			"message": "Online services cannot be used.",
-			"short_description": "Your PNID is temporarily banned from Pretendo Network.",
-			"long_description": "The account you are trying to use has been temporarily banned from Pretendo Network.",
+			"short_description": "Your SNID is temporarily banned from Samtendo Network.",
+			"long_description": "The account you are trying to use has been temporarily banned from Samtendo Network.",
 			"short_solution": "Wait for the ban to expire.",
 			"long_solution": "Wait for the ban to expire.",
 			"support_link": "https://preten.do/022-2821"

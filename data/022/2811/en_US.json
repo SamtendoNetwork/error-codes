@@ -3,8 +3,8 @@
 		"2811": {
 			"name": "BANNED_DEVICE",
 			"message": "Online services cannot be used.",
-			"short_description": "Your console is permanently banned from Pretendo Network.",
-			"long_description": "Your console has been permanently banned from Pretendo Network.",
+			"short_description": "Your console is permanently banned from Samtendo Network.",
+			"long_description": "Your console has been permanently banned from Samtendo Network.",
 			"short_solution": "Don't do whatever you did to get banned.",
 			"long_solution": "Not available.",
 			"support_link": "https://preten.do/022-2811"
