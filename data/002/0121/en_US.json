@@ -6,7 +6,7 @@
 			"short_description": "Device certificate is invalid.",
 			"long_description": "Device certificate is invalid.",
 			"short_solution": "This is not a ban. Check your Luma3DS settings.",
-			"long_solution": "Your console is not banned. Make sure game patches and external FIRMs options are enabled in Luma3DS settings and the CFW has been running from SD via B9S. If it's running from CTRNAND via B9S, redownload Luma3DS on your SD card. If it still persists, reinstall Nimbus or restore your device certificate.",
+			"long_solution": "Your console is not banned. Make sure game patches and external FIRMs options are enabled in Luma3DS settings and the CFW has been running from SD via B9S. If it's running from CTRNAND via B9S, redownload Luma3DS on your SD card. If it still persists, reinstall Cirrus or restore your device certificate.",
 			"support_link": "https://preten.do/002-0121"
 		}
 	}
