@@ -5,8 +5,8 @@
 			"message": "Could not connect to server.\nPlease wait a moment and try again.\n\nIf the problem persists, please contact the Nintendo Technical Support Center as instructed in the console's instruction manual.",
 			"short_description": "This error is usually caused by an expired token.",
 			"long_description": "",
-			"short_solution": "",
-			"long_solution": "Restart your console and retry the action. If that doesn't solve it, please make a support post in #support.",
+			"short_solution": "Restart your console and retry the action. If that doesn't solve it, please make a support post in #support.",
+			"long_solution": "",
 			"support_link": "None"
 		}
 	}
