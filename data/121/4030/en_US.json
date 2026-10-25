@@ -1,0 +1,13 @@
+{
+	"121": {
+		"4030": {
+			"name": "Access Suspended",
+			"message": "",
+			"short_description": "Your Samverse access has been suspended.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Appeal on the forum.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/121-4030"
+		}
+	}
+}
