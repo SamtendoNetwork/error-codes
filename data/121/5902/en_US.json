@@ -1,0 +1,13 @@
+{
+	"121": {
+		"5902": {
+			"name": "Samverse3::VeryBadText",
+			"message": "",
+			"short_description": "The post or reply contained severe inappropriate text.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Use kind words.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/121-5902"
+		}
+	}
+}

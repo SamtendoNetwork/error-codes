@@ -1,7 +1,7 @@
 {
 	"121": {
 		"0076": {
-			"name": "Bad Request",
+			"name": "Samverse3::BadRequest",
 			"message": "",
 			"short_description": "The request was malformed or invalid.",
 			"long_description": "Unknown cause.",

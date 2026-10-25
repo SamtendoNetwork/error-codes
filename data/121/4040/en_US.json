@@ -1,13 +1,13 @@
 {
 	"121": {
 		"4040": {
-			"name": "Not Found",
+			"name": "Samverse3::NotFound",
 			"message": "",
 			"short_description": "The requested resource was not found.",
 			"long_description": "Unknown cause.",
 			"short_solution": "Unknown solution. Amend your request or ask for help.",
 			"long_solution": "Unknown solution.",
-			"support_link": "https://preten.do/121-0076"
+			"support_link": "https://preten.do/121-4040"
 		}
 	}
 }

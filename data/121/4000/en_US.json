@@ -1,0 +1,13 @@
+{
+	"121": {
+		"4000": {
+			"name": "Samverse3::Forbidden",
+			"message": "",
+			"short_description": "You do not possess the proper authorisation to perform this action.",
+			"long_description": "Unknown cause.",
+			"short_solution": "No solution. If you believe you are supposed to be able to perform the action, ask for help.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/121-4000"
+		}
+	}
+}
