@@ -1,0 +1,13 @@
+{
+	"121": {
+		"0902": {
+			"name": "Samverse3::InvalidFunction",
+			"message": "",
+			"short_description": "Attempted to call a non-existent function. The feature is likely not implemented yet.",
+			"long_description": "Unknown cause.",
+			"short_solution": "No solution other than wait.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/121-0902"
+		}
+	}
+}
