@@ -1,0 +1,13 @@
+{
+	"121": {
+		"4031": {
+			"name": "Samverse3::TemporarilySuspended",
+			"message": "",
+			"short_description": "Your Samverse access has been suspended temporarily.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Appeal on the forum or wait for the ban to expire.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/121-4031"
+		}
+	}
+}

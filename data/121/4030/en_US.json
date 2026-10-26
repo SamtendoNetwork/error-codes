@@ -1,7 +1,7 @@
 {
 	"121": {
 		"4030": {
-			"name": "Samverse3::Suspended",
+			"name": "Samverse3::PermanentlySuspended",
 			"message": "",
 			"short_description": "Your Samverse access has been suspended.",
 			"long_description": "Unknown cause.",
