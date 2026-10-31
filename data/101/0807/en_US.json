@@ -3,7 +3,7 @@
 		"0807": {
 			"name": "AUTHENTICATION_VALIDATION_FAILED",
 			"message": "",
-			"short_description": "Unknown cause.",
+			"short_description": "This error is usually caused by an expired token.",
 			"long_description": "Unknown cause.",
 			"short_solution": "Restart your console and retry the action. If that doesn't solve it, please make a support post in #support.",
 			"long_solution": "Unknown solution.",
